@@ -1,0 +1,24 @@
+img/
+selenium_for_instagram/*
+.gitkeep
+
+# Environments
+.DS_Store
+.env
+
+# python
+__pycache__/
+
+### venv ###
+# Virtualenv
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+
+# JupyterLab
+*.ipynb
+.ipynb_checkpoints/
