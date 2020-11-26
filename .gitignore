@@ -1,6 +1,6 @@
 img/
 selenium_for_instagram/*
-.gitkeep
+!/selenium_for_instagram/.gitkeep
 
 # Environments
 .DS_Store
